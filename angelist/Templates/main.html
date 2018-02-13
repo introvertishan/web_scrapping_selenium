@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KYDOTS</title>
+        {% load staticfiles %}
+    <script src="{% static 'jquery-3.2.1.min.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'bootstrap-theme.min.css' %}">
+    <script src="{% static 'bootstrap.min.js' %}"></script>
+</head>
+<body>
+<div class="container" style="margin-top:10px;">
+    <div class="row">
+  <!--<p>Click to get the link of all the investors:</p>-->
+  <button type="button" onclick="call(1)" class="btn btn-info btn-lg" id="investor">Investors</button>
+    </div>
+</div>
+<hr>
+<div class="container">
+    <div class="row">
+  <!--<p>Click to get the link of all the companies:</p>-->
+  <button type="button" onclick="call(2)" class="btn btn-info btn-lg" id="company">Companies</button>
+    </div>
+</div>
+</body>
+<script>
+function call(n){
+    if(n == 1) {
+        window.location = "investors";
+    }
+    else {
+        window.location = "company";
+    }
+}
+</script>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Companies</title>
+    {% load staticfiles %}
+    <script src="{% static 'jquery-3.2.1.min.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'bootstrap-theme.min.css' %}">
+    <script src="{% static 'bootstrap.min.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'main.css' %}">
+</head>
+<body>
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Company</th>
+        <th>About</th>
+        <th>Joined</th>
+        <th>Location</th>
+        <th>Market</th>
+        <th>website</th>
+        <th>Employees</th>
+        <th>Total Raised</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for i in all_company_object %}
+    <tr>
+        <td><a href="{{i.link}}" target="_blank"><img class="img-responsive" src="{{i.imgsrc}}"
+                                                      style="height: 50px; width: 50px;">{{i.name}}</a></td>
+        <td>{{i.bio}}</td>
+        <td>{{i.date}}</td>
+        <td>{{i.city}}</td>
+        <td>{{i.market}}</td>
+        <td><a href="{{i.website_link}}" target="_blank">{{i.website_text}}</a></td>
+        <td>{{i.employee}}</td>
+        <td>{{i.raised}}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<!--{% if all_record.has_other_pages %}-->
+  <!--<ul class="pagination">-->
+    <!--{% if all_record.has_previous %}-->
+      <!--<li><a href="?page={{ all_record.previous_page_number }}">&laquo;</a></li>-->
+    <!--{% else %}-->
+      <!--<li class="disabled"><span>&laquo;</span></li>-->
+    <!--{% endif %}-->
+    <!--{% for i in all_record.paginator.page_range %}-->
+      <!--{% if all_record.number == i %}-->
+        <!--<li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>-->
+      <!--{% else %}-->
+        <!--<li><a href="?page={{ i }}">{{ i }}</a></li>-->
+      <!--{% endif %}-->
+    <!--{% endfor %}-->
+    <!--{% if all_record.has_next %}-->
+      <!--<li><a href="?page={{ all_record.next_page_number }}">&raquo;</a></li>-->
+    <!--{% else %}-->
+      <!--<li class="disabled"><span>&raquo;</span></li>-->
+    <!--{% endif %}-->
+  <!--</ul>-->
+<!--{% endif %}-->
+
+</body>
+</html>

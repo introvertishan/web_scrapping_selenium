@@ -1,0 +1,1186 @@
+1518174808544	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518174808551	geckodriver	INFO	Listening on 127.0.0.1:54557
+1518174811789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.yetWkj6kl8tY"
+1518174815828	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518174819580	Marionette	INFO	Enabled via --marionette
+[Child 5084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518174834306	Marionette	INFO	Listening on port 54569
+1518174834464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518174834550	Marionette	DEBUG	Register listener.js for window 6442450945
+1518174835219	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518174839263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518174839263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518174843980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518174849758	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518174857125	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 5172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518175176956	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518175176962	geckodriver	INFO	Listening on 127.0.0.1:55774
+1518175180009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.KhZAHgUXcHr7"
+1518175181832	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518175182949	Marionette	INFO	Enabled via --marionette
+[Parent 9092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518175191608	Marionette	INFO	Listening on port 55786
+1518175192075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518175192123	Marionette	DEBUG	Register listener.js for window 4294967297
+1518175192170	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518175196182	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518175196183	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518175202445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518175213201	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518175214126	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518175228579	Marionette	INFO	New connections will no longer be accepted
+[Child 5236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518175566853	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518175566860	geckodriver	INFO	Listening on 127.0.0.1:56466
+1518175569695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.ikHKzZnnk1dL"
+1518175571533	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518175572875	Marionette	INFO	Enabled via --marionette
+[Parent 5864] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9828] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518175581426	Marionette	INFO	Listening on port 56475
+1518175581791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518175581855	Marionette	DEBUG	Register listener.js for window 4294967297
+1518175581984	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518175585617	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518175585617	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518175588885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518175593515	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518175603735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518175605279	Marionette	INFO	New connections will no longer be accepted
+[Parent 5864] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518175859143	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518175859149	geckodriver	INFO	Listening on 127.0.0.1:57369
+1518175862062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.w4ybBBufRgz8"
+1518175863385	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518175864215	Marionette	INFO	Enabled via --marionette
+[Child 6044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518175867295	Marionette	INFO	Listening on port 57381
+1518175867793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518175867850	Marionette	DEBUG	Register listener.js for window 4294967297
+1518175867876	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518175873397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518175873397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518175875669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518175881935	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518175890658	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518175891921	Marionette	INFO	New connections will no longer be accepted
+1518178337510	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518178337520	geckodriver	INFO	Listening on 127.0.0.1:58079
+1518178340706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.kE2bXZOuIdzN"
+1518178343171	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518178345332	Marionette	INFO	Enabled via --marionette
+[Parent 7020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518178357461	Marionette	INFO	Listening on port 58087
+1518178357608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518178357727	Marionette	DEBUG	Register listener.js for window 6442450945
+1518178358108	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518178363234	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518178363234	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518178366978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518178370886	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518178378161	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518178382959	Marionette	INFO	New connections will no longer be accepted
+[Parent 7020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518179005059	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518179005068	geckodriver	INFO	Listening on 127.0.0.1:58692
+1518179008165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.rztIKEmoRI2Y"
+1518179011506	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518179013666	Marionette	INFO	Enabled via --marionette
+[Parent 8584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4668] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518179026539	Marionette	INFO	Listening on port 58700
+1518179027471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518179027558	Marionette	DEBUG	Register listener.js for window 4294967297
+1518179028025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518179034790	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518179034791	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518179045576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+1518179055527	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518179061910	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518179076953	Marionette	INFO	New connections will no longer be accepted
+[Parent 8584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518179143076	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518179143084	geckodriver	INFO	Listening on 127.0.0.1:59339
+1518179145750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.13xwmnU3MOOi"
+1518179147253	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518179148293	Marionette	INFO	Enabled via --marionette
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518179156852	Marionette	INFO	Listening on port 59357
+1518179157295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518179157347	Marionette	DEBUG	Register listener.js for window 4294967297
+1518179157372	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518179160514	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518179160514	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518179167022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518179171460	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518179178805	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518179182950	Marionette	INFO	New connections will no longer be accepted
+[Parent 9468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518180983168	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518180983176	geckodriver	INFO	Listening on 127.0.0.1:60857
+1518180986277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.b2ijFgK9aTU7"
+1518180990054	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518180992003	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518181004806	Marionette	INFO	Listening on port 60871
+1518181005408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518181005559	Marionette	DEBUG	Register listener.js for window 6442450945
+1518181005745	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518181009285	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518181009286	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518181013061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518181016884	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518181025723	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518181028807	Marionette	INFO	New connections will no longer be accepted
+[Parent 576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518182093908	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518182093972	geckodriver	INFO	Listening on 127.0.0.1:64263
+1518182097124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.ePvnrdnYTvOs"
+1518182099272	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518182100911	Marionette	INFO	Enabled via --marionette
+[Parent 4276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518182105905	Marionette	INFO	Listening on port 64279
+1518182106596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518182106655	Marionette	DEBUG	Register listener.js for window 6442450945
+1518182106679	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518182109842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518182109842	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518182111564	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518182115483	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518182125612	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518182126474	Marionette	INFO	New connections will no longer be accepted
+1518182250317	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518182250326	geckodriver	INFO	Listening on 127.0.0.1:65267
+1518182253348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.1gdakIlf0g2X"
+1518182253587	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518182254741	Marionette	INFO	Enabled via --marionette
+[Parent 7900] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7840] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7840] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518182257522	Marionette	INFO	Listening on port 65283
+1518182258621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518182258668	Marionette	DEBUG	Register listener.js for window 6442450945
+1518182258690	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518182263776	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518182263776	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518182265447	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518182269409	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518182277035	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518182278002	Marionette	INFO	New connections will no longer be accepted
+1518182577224	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518182577232	geckodriver	INFO	Listening on 127.0.0.1:50340
+1518182580280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.z0nwBRBTyx7S"
+1518182580907	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518182581703	Marionette	INFO	Enabled via --marionette
+[Child 8424] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8424] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518182585022	Marionette	INFO	Listening on port 50356
+1518182585530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518182585662	Marionette	DEBUG	Register listener.js for window 6442450945
+1518182585708	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518182588968	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518182588968	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518182590941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518182595660	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518182604055	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518182604457	Marionette	INFO	New connections will no longer be accepted
+[Parent 6572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518183038252	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518183038265	geckodriver	INFO	Listening on 127.0.0.1:52039
+1518183041635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Y8FK7jLzqPCU"
+1518183043715	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518183046090	Marionette	INFO	Enabled via --marionette
+[Parent 2968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6440] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6440] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518183057085	Marionette	INFO	Listening on port 52053
+1518183057599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518183057676	Marionette	DEBUG	Register listener.js for window 4294967297
+1518183058485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518183062052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518183062052	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518183065408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518183069770	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518183078769	Marionette	INFO	New connections will no longer be accepted
+1518184137422	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518184137434	geckodriver	INFO	Listening on 127.0.0.1:54284
+1518184140551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Pw5yZvVdVQzk"
+1518184143575	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518184145534	Marionette	INFO	Enabled via --marionette
+[Parent 8228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518184155756	Marionette	INFO	Listening on port 54300
+1518184156451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518184156512	Marionette	DEBUG	Register listener.js for window 6442450945
+1518184156608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518184160930	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518184160931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518184162857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518184166897	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518184174422	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518184174863	Marionette	INFO	New connections will no longer be accepted
+[Parent 8228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518184229866	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518184229876	geckodriver	INFO	Listening on 127.0.0.1:55046
+1518184232943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.DQ4vFFXPEyGA"
+1518184233639	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518184234447	Marionette	INFO	Enabled via --marionette
+[Child 7632] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7632] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1518184237354	Marionette	INFO	Listening on port 55058
+1518184238171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518184238219	Marionette	DEBUG	Register listener.js for window 4294967297
+1518184238242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518184241923	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518184241924	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518184243472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518184247075	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518184255185	Marionette	INFO	New connections will no longer be accepted
+1518184356236	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518184356247	geckodriver	INFO	Listening on 127.0.0.1:55781
+1518184359284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Zy91gK8O2uXE"
+1518184359950	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518184360827	Marionette	INFO	Enabled via --marionette
+[Parent 4188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518184365209	Marionette	INFO	Listening on port 55793
+1518184365513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518184365571	Marionette	DEBUG	Register listener.js for window 6442450945
+1518184365593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518184369193	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518184369194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518184371313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518184375515	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518184383634	Marionette	INFO	New connections will no longer be accepted
+1518185056243	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518185056255	geckodriver	INFO	Listening on 127.0.0.1:56784
+1518185059185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.y4bTDVucsXLL"
+1518185060121	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518185060919	Marionette	INFO	Enabled via --marionette
+[Child 8500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518185063821	Marionette	INFO	Listening on port 56792
+1518185064422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518185064477	Marionette	DEBUG	Register listener.js for window 6442450945
+1518185064500	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518185068430	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518185068431	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518185071288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518185075063	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518185083197	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518185083522	Marionette	INFO	New connections will no longer be accepted
+[Parent 7276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518185117115	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518185117121	geckodriver	INFO	Listening on 127.0.0.1:57361
+1518185120182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.yoPqTzaJmQil"
+1518185120396	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518185121106	Marionette	INFO	Enabled via --marionette
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518185123796	Marionette	INFO	Listening on port 57369
+1518185123811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518185123891	Marionette	DEBUG	Register listener.js for window 6442450945
+1518185123940	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518185130345	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518185130345	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518185131730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518185135030	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518185142604	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518185145021	Marionette	INFO	New connections will no longer be accepted
+1518185244938	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518185244950	geckodriver	INFO	Listening on 127.0.0.1:58063
+1518185248003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Tj0gGKcPO5dq"
+1518185248220	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518185249321	Marionette	INFO	Enabled via --marionette
+[Parent 9176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5084] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518185252855	Marionette	INFO	Listening on port 58079
+1518185253279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518185253333	Marionette	DEBUG	Register listener.js for window 4294967297
+1518185253363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518185258946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518185258947	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518185260484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518185265790	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518185271692	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518185275268	Marionette	INFO	New connections will no longer be accepted
+[Parent 9176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518185744680	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518185744686	geckodriver	INFO	Listening on 127.0.0.1:59659
+1518185747761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.eJNJ6XNDkrkd"
+1518185748451	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518185749236	Marionette	INFO	Enabled via --marionette
+[Child 4756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518185751956	Marionette	INFO	Listening on port 59671
+1518185752996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518185753047	Marionette	DEBUG	Register listener.js for window 4294967297
+1518185753084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518185757136	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518185757137	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518185758705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518185762562	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518185771092	Marionette	INFO	New connections will no longer be accepted
+1518415684776	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518415684786	geckodriver	INFO	Listening on 127.0.0.1:60625
+1518415688119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.URGaHbOcl9My"
+1518415690235	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518415691478	Marionette	INFO	Enabled via --marionette
+[Child 6076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518415696752	Marionette	INFO	Listening on port 60633
+1518415697640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518415697771	Marionette	DEBUG	Register listener.js for window 4294967297
+1518415697925	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518415702108	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518415702108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518415711923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518415726560	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518415728584	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518415739483	Marionette	INFO	New connections will no longer be accepted
+[Parent 10204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518415805401	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518415805412	geckodriver	INFO	Listening on 127.0.0.1:61388
+1518415808305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Ib3M4MP2Uuol"
+1518415811584	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518415812885	Marionette	INFO	Enabled via --marionette
+[Child 7444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518415817721	Marionette	INFO	Listening on port 61396
+1518415817767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518415817822	Marionette	DEBUG	Register listener.js for window 4294967297
+1518415817865	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518415825298	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518415825299	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518415836519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518415839701	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518415844805	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518415853675	Marionette	INFO	New connections will no longer be accepted
+1518427020132	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518427020138	geckodriver	INFO	Listening on 127.0.0.1:63389
+1518427023174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.DcfPMaNXS73T"
+1518427024019	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518427025399	Marionette	INFO	Enabled via --marionette
+[Child 6496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518427028280	Marionette	INFO	Listening on port 63401
+1518427028403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518427028462	Marionette	DEBUG	Register listener.js for window 4294967297
+1518427028483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518427031849	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518427031850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518427033827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518427038045	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518427046005	Marionette	INFO	New connections will no longer be accepted
+1518427144682	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518427144687	geckodriver	INFO	Listening on 127.0.0.1:64132
+1518427147733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.ZUmMW8FXLRIr"
+1518427147941	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518427148901	Marionette	INFO	Enabled via --marionette
+[Child 296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518427151445	Marionette	INFO	Listening on port 64146
+1518427151850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518427151908	Marionette	DEBUG	Register listener.js for window 6442450945
+1518427151941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518427158023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518427158023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518427160175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518427164056	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518427170607	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518427172170	Marionette	INFO	New connections will no longer be accepted
+1518427203383	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518427203389	geckodriver	INFO	Listening on 127.0.0.1:64783
+1518427206440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.0SqfoBQ8qvFG"
+1518427206663	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518427207301	Marionette	INFO	Enabled via --marionette
+[Child 2644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2644] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518427210001	Marionette	INFO	Listening on port 64795
+1518427210064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518427210115	Marionette	DEBUG	Register listener.js for window 6442450945
+1518427210153	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518427215472	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518427215472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518427218907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518427225569	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518427231210	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518427233613	Marionette	INFO	New connections will no longer be accepted
+1518427262623	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518427262631	geckodriver	INFO	Listening on 127.0.0.1:65431
+1518427265675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.H4d6XyqGi12A"
+1518427265879	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518427266576	Marionette	INFO	Enabled via --marionette
+[Child 6756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518427269499	Marionette	INFO	Listening on port 65443
+1518427269793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518427269847	Marionette	DEBUG	Register listener.js for window 6442450945
+1518427269869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518427273355	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518427273355	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518427275145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518427278897	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518427286923	Marionette	INFO	New connections will no longer be accepted
+[Parent 6204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518437344462	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518437344470	geckodriver	INFO	Listening on 127.0.0.1:50264
+1518437347721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.TGDJEWydxLxJ"
+1518437350993	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518437352725	Marionette	INFO	Enabled via --marionette
+[Child 9628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518437363921	Marionette	INFO	Listening on port 50278
+1518437364195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518437364268	Marionette	DEBUG	Register listener.js for window 4294967297
+1518437364689	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518437376075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518437376076	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518437389528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518437396951	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518437405904	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518437419142	Marionette	INFO	New connections will no longer be accepted
+[Parent 52] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518437498941	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518437498953	geckodriver	INFO	Listening on 127.0.0.1:51089
+1518437501869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\1518437503152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.uiFO1f6l95ho"
+1518437503399	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.js1518437503798	Marionette	INFO	Enabled via --marionette
+[Child 4704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4704] WARNING: pipe error: 109: f[Parent 8376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3720] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518437511969	Marionette	INFO	Listening on port 51120
+1518437512584	Marionette	WARN	TLS certificate errors will be ignored for this ses1518437517066	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518437517067	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518437537396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518437544965	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518437552602	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518437564895	Marionette	INFO	New connections will no longer be accepted
+[Parent 8664] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+EBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518437569452	Marionette	INFO	New connections will no longer be accepted
+1518438416250	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518438416379	geckodriver	INFO	Listening on 127.0.0.1:53709
+1518438418887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\1518438419468	mozrunner::runner	INFO	1518438424804	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518438427927	Marionette	INFO	Enabled via --marionette
+[Parent 6924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8788] WARNING: pipe error: 109: [Child 6756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Child 8788] WARNING: pipe error: 109: [Child 6756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom1518438456038	Marionette	INFO	Listening on port 53730
+1518438456517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518438456566	Marionette	DEBUG	Register listener.js for window 4294967297
+1518438457169	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518438463385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518438463386	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518438467232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518438476742	Marionette	DEBUG	Received DOM event "pages1518438478114	Marionette	DEBUG	Received DOM e1518438482054	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom1518438494065	Marionette	INFO	New connections will no longer be accepted
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518438793369	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518438793375	geckodriver	INFO	Listening on 127.0.0.1:55525
+1518438795554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\1518438796597	mozrunner::runner	INFO	1518438799221	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518438799221	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518438800721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.2PbxwL5kewJ8"
+1518438803897	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589[Parent 7500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8296] WARNING: pipe error: 109: [Child 5708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom1518438825750	Marionette	INFO	Listening on port 55544
+1518438826275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518438826337	Marionette	DEBUG	Register listener.js for window 4294967297
+1518438826381	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518438833073	Marionette	DEBUG	Received1518438833561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518438833561	Marionette	DEBUG	Received1518438846975	Marionette	DEBUG	Received1518438849855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518438854571	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518438866956	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518438884133	Marionette	INFO	New connections will no longer be accepted
+[Parent 5412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518438922008	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518438922018	geckodriver	INFO	Listening on 127.0.0.1:57354
+1518438924955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Rc6q5rPAL1l7"
+1518438925628	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518438926488	Marionette	INFO	Enabled via --marionette
+[Child 8188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi1518438928919	mo1518438929644	Marionette	INFO	Listening on port 57367
+1518438930348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518438930417	Marionette	DEBUG	Register listener.js for window 4294967297
+1518438930450	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518438935326	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518438935327	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518438945055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518438954660	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518438954733	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518438971788	Marionette	INFO	New connections will no longer be accepted
+[Parent 6420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nload" for "about:blank"
+1518438937785	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518438937786	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518438947382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518438955732	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518438958552	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518438973230	Marionette	INFO	New connections will no longer be accepted
+1518440617541	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518440617546	geckodriver	INFO	Listening on 127.0.0.1:61704
+1518440620604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\1518440622216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.V5bsKjEL9dBP"
+1518440622591	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518440623644	Marionette	INFO	Enabled via --marionette
+[Parent 10224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028] W1518440624816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518440624901	Marionet11518440626766	Marionette	INFO	Listening on port 61734
+1518440627552	Marionette	WARN	TLS certificate errors will be ignored for this ses1518440631184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518440631185	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518440633449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gta1518440634663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-82814091518440638569	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518440643509	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518440651080	Marionette	INFO	New connections will no longer be accepted
+[Parent 6052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5448] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch1518440654763	Marionette	INFO	New connections will no longer be accepted
+[Parent 10224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ line 346
+1518440631382	Marionette	INFO	Listening on port 61781
+1518440631780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518440631864	Marionette	DEBUG	Register listener.js for window 4294967297
+1518440631900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518440636304	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518440636305	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518440638999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518440642876	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518440648051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518440652084	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518440657674	Marionette	INFO	New connections will no longer be accepted
+[Parent 7372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518442194352	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518442194362	geckodriver	INFO	Listening on 127.0.0.1:49591
+1518442197762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.PShSbf3VioRi"
+1518442199946	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518442200909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.ZM7hSXY9gAe5"
+1518442201279	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/a1518442202282	Marionette	INFO	Enabled via --marionette
+[Child 3284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518442209578	Marionette	INFO	Listening on port 49605
+1518442209978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518442210146	Marionette	DEBUG	Register listener.js for window 4294967297
+1518442210266	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518442213231	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518442213232	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518442223162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518442231506	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518442236997	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518442253229	Marionette	INFO	New connections will no longer be accepted
+[Parent 6236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1364] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518442235984	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518442236991	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518442253645	Marionette	INFO	New connections will no longer be accepted
+1518442846038	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518442846044	geckodriver	INFO	Listening on 127.0.0.1:51999
+1518442849010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.oYE339pkhZ7n"
+1518442850671	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518442852922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.Tta4RZ14jvrP"
+1518442853600	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://g[Child 608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518442860408	Marionette	INFO	Listening on port 52011
+1518442860614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518442860760	Marionette	DEBUG	Register listener.js for window 4294967297
+1518442860824	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518442863594	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518442863594	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518442870207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518442882324	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518442887562	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518442896328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 5264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Child 9252] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 4428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+
+1518443126422	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518443126435	geckodriver	INFO	Listening on 127.0.0.1:53912
+1518443129231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.lZKJNP4a6naq"
+1518443131591	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518443132994	Marionette	INFO	Enabled via --marionette
+[Child 9840] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9840] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518443137286	Marionette	INFO	Listening on port 53924
+1518443137767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518443137811	Marionette	DEBUG	Register listener.js for window 4294967297
+1518443137835	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518443141325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518443141326	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518443144366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518443147641	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518443156036	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518443159847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518443161851	Marionette	INFO	New connections will no longer be accepted
+1518443366776	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518443366785	geckodriver	INFO	Listening on 127.0.0.1:55008
+1518443369706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.T5hfVBPwStjx"
+1518443371070	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518443373875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.FeoAIA0c8WhW"
+1518443374158	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Fil1518443375636	Marionette	INFO	Listening on port 55020
+1518443376108	Marionette	WARN	TLS certificate errors will be i[Child 1664] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1664] WARNING: pipe error: 109: file z:/build/build/s1518443382390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518443382391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518443387388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518443392183	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518443398784	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518443406354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child [GPU 10164] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pc_channel_win.cc, line 346
+[Child 6984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 892] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+urce://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518443449713	Marionette	INFO	Enabled via --marionette
+[Parent 3168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518443455201	Marionette	INFO	Listening on port 56652
+1518443455319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518443455475	Marionette	DEBUG	Register listener.js for window 4294967297
+1518443455522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518443460929	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518443460929	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518443464054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518443468200	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518443474249	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518443478610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 3168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9976] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518445723134	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518445723143	geckodriver	INFO	Listening on 127.0.0.1:61230
+1518445726106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.0KyWUiIWU6gN"
+1518445728417	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518445729812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.y1MNRq2m5Bk9"
+1518445731726	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://g[Parent 6628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x24003F,name=PContent::Msg_LoadProcessScript) Channel err[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[6668] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[6668] WARNING: Unable to create pipe named "4228.0.1444862399\103847710" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3B0018,name=PGPU::Msg_InitCrashReporter) Closed channel: cannot send/recv
+
+[GFX1-]: Could not get a DXGI adapter
+[Parent 4228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 328: NS_ERROR_FAILURE: Component returned failure code: 0x800040[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1518445760406	Marionette	INFO	Listening on port 61261
+1518445761610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518445761772	Marionette	DEBUG	Register listener.js for window 4294967297
+1518445764064	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518445768285	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518445768285	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518445777739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518445782905	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518445793092	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518445794186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518445805784	Marionette	INFO	New connections will no longer be accepted
+[Parent 4228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518446159095	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518446159107	geckodriver	INFO	Listening on 127.0.0.1:63340
+1518446162982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.1DRusoAEza8Y"
+1518446176378	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518446178857	Marionette	INFO	Enabled via --marionette
+[Parent 8904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518446183345	Marionette	INFO	Listening on port 63355
+1518446183460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518446183533	Marionette	DEBUG	Register listener.js for window 4294967297
+1518446183743	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518446186345	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518446186345	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518446188074	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518446189346	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518446191909	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518446201861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518446210054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518446220781	Marionette	INFO	New connections will no longer be accepted
+[Parent 8904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518446446669	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518446446677	geckodriver	INFO	Listening on 127.0.0.1:49445
+1518446449721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.bD6MnfmLdXYB"
+1518446451024	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518446453620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.AyKunmxcE9Dm"
+1518446454056	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://g[Parent 4708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518446473141	Marionette	INFO	Listening on port 49457
+1518446473661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518446473984	Marionette	DEBUG	Register listener.js for window 4294967297
+1518446475100	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518446479125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518446479126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518446485755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518446495970	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518446501924	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518446507187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518446517698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518446529245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 4708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Child 19[GPU 8648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518446632378	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518446632390	geckodriver	INFO	Listening on 127.0.0.1:54618
+1518446635071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.PjHagOJAyWzH"
+1518446635945	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518446636893	Marionette	INFO	Enabled via --marionette
+[Child 7040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518446640102	Marionette	INFO	Listening on port 54630
+1518446640310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518446640358	Marionette	DEBUG	Register listener.js for window 6442450945
+1518446640380	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518446643023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518446643024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518446645644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518446649119	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518446658239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518446661593	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518446666666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518446677750	Marionette	INFO	New connections will no longer be accepted
+1518503118437	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518503118444	geckodriver	INFO	Listening on 127.0.0.1:57458
+1518503121698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.M2NemAVWusUo"
+1518503132157	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518503134683	Marionette	INFO	Enabled via --marionette
+[Child 4420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518503163598	Marionette	INFO	Listening on port 57468
+1518503164411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518503164499	Marionette	DEBUG	Register listener.js for window 4294967297
+1518503166337	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518503173498	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518503173498	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518503185232	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518503187255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518503194153	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518503204799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518503213051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518503223709	Marionette	INFO	New connections will no longer be accepted
+[Child 5500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518507899918	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518507899927	geckodriver	INFO	Listening on 127.0.0.1:59982
+1518507902935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.r8RbsH3X07N8"
+1518507904165	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerS1518507906813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.2DWedzzj8bZ4"
+1518507907109	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://g[Parent 7004] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4756] WARNING: pipe error: 109: file z:/build/build/s1518507908107	Marionette	INFO	Enabled via --marionette
+[Parent 8472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4512] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4512] WARNING: pipe error: 109: file z:/build/build/s1518507913905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518507913905	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518507921863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518507930143	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518507933337	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518507939760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518507948422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518507959246	Marionette	INFO	New connections will no longer be accepted
+[Parent 7004] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+UG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518507944209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518507952757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518507963518	Marionette	INFO	New connections will no longer be accepted
+[Parent 8472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518507974705	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518507974711	geckodriver	INFO	Listening on 127.0.0.1:64162
+1518507977755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.X1b3nWKwdHVF"
+1518507978336	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518507979031	Marionette	INFO	Enabled via --marionette
+[Child 7412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518507981894	Marionette	INFO	Listening on port 64170
+1518507982988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518507983041	Marionette	DEBUG	Register listener.js for window 6442450945
+1518507983064	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518507986188	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518507986189	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518507990759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518507998776	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518508002106	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 9664] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch1518508004385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.QLxzGdVV7H1Z"
+1518508004658	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518508005774	Marionette	INFO	Enabled via --marionette
+[Parent 5048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3500] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508008509	Marionette	INFO	Listening on port 64253
+1518508009621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518508009673	Marionette	DEBUG	Register listener.js for window 4294967297
+1518508009694	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518508012525	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518508012525	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518508013368	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518508015260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.google1518508016910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.esVJtpYJCNGO"
+1518508017264	add1518508018876	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Error { repr: Os { code: 10054, message: "An existing connection was forcibly closed by the remote host." } }', src\libcore\result.rs:906:4
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+[Parent 5048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+C:\\Program Files\\Mozilla Fi1518508022499	Marionette	INFO	Listening on port 64319
+1518508022655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518508022718	Marionette	DEBUG	Register listener.js for window 4294967297
+1518508022749	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518508025192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518508025192	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518508027883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 6820] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508028238	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518508028239	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 704] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508028555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518508028614	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1518508046335	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518508046341	geckodriver	INFO	Listening on 127.0.0.1:64402
+1518508049396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.EXfKuk4JlegJ"
+1518508049595	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518508050291	Marionette	INFO	Enabled via --marionette
+[Child 7928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508052719	Marionette	INFO	Listening on port 64410
+1518508053018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518508053091	Marionette	DEBUG	Register listener.js for window 4294967297
+1518508053111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518508057037	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518508057037	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518508060464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518508067400	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518508074187	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518508075031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518508082037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518508090902	Marionette	INFO	New connections will no longer be accepted
+[Parent 7664] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508100536	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518508100542	geckodriver	INFO	Listening on 127.0.0.1:50111
+1518508103574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.p1fWm8LvIhrn"
+1518508103767	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518508104451	Marionette	INFO	Enabled via --marionette
+[Parent 5312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8800] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508107273	Marionette	INFO	Listening on port 50119
+1518508107700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518508107752	Marionette	DEBUG	Register listener.js for window 6442450945
+1518508107775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518508112275	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518508112275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518508116209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518508125651	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518508131189	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518508133044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518508140188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518508149461	Marionette	INFO	New connections will no longer be accepted
+1518508166239	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518508166245	geckodriver	INFO	Listening on 127.0.0.1:52197
+1518508169283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.BScbKepwlSI9"
+1518508169478	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518508170148	Marionette	INFO	Enabled via --marionette
+[Child 9000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9000] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518508173103	Marionette	INFO	Listening on port 52205
+1518508173398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518508173444	Marionette	DEBUG	Register listener.js for window 4294967297
+1518508173468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518508177795	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518508177796	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518508180223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518508192916	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518508208067	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518508217997	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518508225658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518508235209	Marionette	INFO	New connections will no longer be accepted
+1518515394342	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518515394348	geckodriver	INFO	Listening on 127.0.0.1:54874
+1518515397404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.JkQOa5k42lvC"
+1518515398419	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518515400389	Marionette	INFO	Enabled via --marionette
+[Child 7852] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7852] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518515404415	Marionette	INFO	Listening on port 54882
+1518515404850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518515404912	Marionette	DEBUG	Register listener.js for window 4294967297
+1518515404930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518515407609	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518515407609	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518515409496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518515412621	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518515423387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518515424088	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518515431548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518515442366	Marionette	INFO	New connections will no longer be accepted
+[Parent 7960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518516555738	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518516555747	geckodriver	INFO	Listening on 127.0.0.1:57306
+1518516558773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.ooZTO9H4WW11"
+1518516559681	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518516560646	Marionette	INFO	Enabled via --marionette
+[Child 3612] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3612] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518516563398	Marionette	INFO	Listening on port 57314
+1518516564027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518516564079	Marionette	DEBUG	Register listener.js for window 4294967297
+1518516564106	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518516566980	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518516566981	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518516569052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518516575647	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518516585314	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518516586267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518516595218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518516607333	Marionette	INFO	New connections will no longer be accepted
+[Parent 5620] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518516658989	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518516659003	geckodriver	INFO	Listening on 127.0.0.1:59395
+1518516662054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.mopExg2gKVCA"
+1518516662370	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518516663648	Marionette	INFO	Enabled via --marionette
+[Parent 7916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w1518516666029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\A1518516666576	Marionette	INFO	Listening on port 59403
+1518516667372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518516667434	Marionette	DEBUG	Register listener.js for window 4294967297
+1518516667464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518516670054	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518516670055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518516675213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518516677359	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518516680901	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518516693381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518516705514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518516718487	Marionette	INFO	New connections will no longer be accepted
+el_win.cc, line 346
+[Child 4640] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518516676745	Marionette	INFO	Listening on port 59425
+1518516677016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518516677089	Marionette	DEBUG	Register listener.js for window 4294967297
+1518516677132	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518516681258	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518516681258	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518516686628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518516691949	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518516703242	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518516704524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518516714866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518516726323	Marionette	INFO	New connections will no longer be accepted
+[Parent 7648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518518701097	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518518701106	geckodriver	INFO	Listening on 127.0.0.1:64261
+1518518704339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.X9GbFp53CCLT"
+1518518708802	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518518712479	Marionette	INFO	Enabled via --marionette
+[Child 10016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518518728824	Marionette	INFO	Listening on port 64273
+1518518729615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518518729731	Marionette	DEBUG	Register listener.js for window 6442450945
+1518518730276	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518518734476	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518518734477	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518518738284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/india/investors"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518518745852	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/india/investors"
+1518518749085	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518518757370	Marionette	INFO	New connections will no longer be accepted
+[Parent 7192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518518808406	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1518518808412	geckodriver	INFO	Listening on 127.0.0.1:64993
+1518518811468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankita\\AppData\\Local\\Temp\\rust_mozprofile.h9JDfcqBaHpn"
+1518518812154	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1518518812963	Marionette	INFO	Enabled via --marionette
+[Parent 2940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518518816035	Marionette	INFO	Listening on port 65001
+1518518816696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518518816757	Marionette	DEBUG	Register listener.js for window 4294967297
+1518518816796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518518820535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518518820536	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518518826469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://angel.co/companies?locations[]=1647-India"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-828140943, line 67: unreachable code after return statement
+1518518834747	Marionette	DEBUG	Received DOM event "pageshow" for "https://angel.co/companies?locations[]=1647-India"
+1518518836219	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518518846939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518518855701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518518866815	Marionette	INFO	New connections will no longer be accepted
+[Parent 2940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
